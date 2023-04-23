@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class CricketCoach implements Coach{
     @Override
     public String getDailyWorkout() {
-        return "Practice running for 5km";
+        return "Practice running for 5km !!!";
     }
 }
